@@ -39,7 +39,6 @@ export default function Home() {
 
       <div className="flex flex-col sm:flex-row justify-center items-center gap-3 w-full px-4 sm:px-6 lg:px-8">
         <Link
-          isExternal
           className={buttonStyles({
             radius: "full",
             variant: "ghost",
@@ -70,7 +69,7 @@ export default function Home() {
           })}
           href="https://wa.link/nmbcj5"
         >
-          <WhatsAppIcon size={20} />
+          <WhatsAppIcon size={25} />
           WhatsApp
         </Link>
       </div>
