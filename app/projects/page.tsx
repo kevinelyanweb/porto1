@@ -115,7 +115,7 @@ export default function App() {
               return (
                 <div className="p-10 border-5 border-gray-500 rounded-lg">
                   <h1>Web Apps</h1>
-                  <p>Innovative mobile application development.</p>
+                  <p>Not yet</p>
                 </div>
               );
           }
@@ -128,7 +128,6 @@ export default function App() {
     <>
       <Breadcrumbs
         size="lg"
-        onAction={(key) => setCurrentPage(key)}
         classNames={{
           list: "gap-3",
         }}
