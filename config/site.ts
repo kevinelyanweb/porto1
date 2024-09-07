@@ -4,7 +4,6 @@ export const siteConfig = {
   name: "Kevin Elyan",
   description: "Make beautiful websites regardless of your design experience.",
   navItems: [
-
     {
       label: "About",
       href: "/about",
@@ -14,8 +13,8 @@ export const siteConfig = {
       href: "/projects",
     },
     {
-      label: "Pricing",
-      href: "/pricing",
+      label: "Experience",
+      href: "/experience",
     },
   ],
   navMenuItems: [
@@ -32,15 +31,13 @@ export const siteConfig = {
       href: "/projects",
     },
     {
-      label: "Pricing",
-      href: "/pricing",
+      label: "Experience",
+      href: "/experience",
     },
   ],
   links: {
-    github: "https://github.com/nextui-org/nextui",
+    github: "https://github.com/kevinelyanweb",
     docs: "https://nextui.org",
-    discord: "https://discord.gg/9b6yyZKmH4",
-    sponsor: "https://patreon.com/jrgarciadev",
     projects: "/projects",
   },
 };

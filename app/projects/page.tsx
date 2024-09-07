@@ -39,7 +39,7 @@ export default function App() {
                       <div className="flex flex-col">
                         <p className="text-md">Mark O. Davis</p>
                         <p className="text-small text-default-500">
-                          Photographer Portofolio Mark O. Davis
+                          Photographer Portofolio
                         </p>
                       </div>
                     </CardHeader>
