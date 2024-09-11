@@ -10,11 +10,11 @@ export default function AboutPage() {
       <section>
         <div className="w-full mb-4">
           <p className="text-lg leading-relaxed mt-5">
-            Hello! I&apos;m <span className="text-blue-500">Kevin Elyan</span>,
-            a passionate junior JavaScript developer with a keen interest in
-            creating dynamic and user-friendly web applications. My journey into
-            the world of programming began with a fascination for how websites
-            work, leading me to pursue a career in web development.
+            In <span className="text-blue-500">2022</span>, a passionate junior
+            JavaScript developer with a keen interest in creating dynamic and
+            user-friendly web applications. My journey into the world of
+            programming began with a fascination for how websites work, leading
+            me to pursue a career in web development.
           </p>
           <p className="text-lg leading-relaxed mt-5">
             With a solid foundation in{" "}

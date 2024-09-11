@@ -33,7 +33,7 @@ export default function App() {
                         alt="nextui logo"
                         height={40}
                         radius="sm"
-                        src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4"
+                        src="https://img.icons8.com/?size=100&id=XKFRdQOs24QU&format=png&color=000000"
                         width={40}
                       />
                       <div className="flex flex-col">
